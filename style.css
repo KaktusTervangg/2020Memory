@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    min-height: 100vh;
+}
+
+div{
+    text-align: center;
+}
+
+.gambar{
+    margin-top: 20px;
+    border: white solid;
+    max-width: 60%;
+}
+
+p{
+    font-size: 1.3rem;
+}
